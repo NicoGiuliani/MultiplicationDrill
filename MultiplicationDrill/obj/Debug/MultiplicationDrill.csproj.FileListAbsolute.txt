@@ -1,0 +1,9 @@
+C:\Users\Nico\Desktop\C#Project\MultiplicationDrill\MultiplicationDrill\bin\Debug\MultiplicationDrill.exe.config
+C:\Users\Nico\Desktop\C#Project\MultiplicationDrill\MultiplicationDrill\bin\Debug\MultiplicationDrill.exe
+C:\Users\Nico\Desktop\C#Project\MultiplicationDrill\MultiplicationDrill\bin\Debug\MultiplicationDrill.pdb
+C:\Users\Nico\Desktop\C#Project\MultiplicationDrill\MultiplicationDrill\obj\Debug\MultiplicationDrill.csprojResolveAssemblyReference.cache
+C:\Users\Nico\Desktop\C#Project\MultiplicationDrill\MultiplicationDrill\obj\Debug\MultiplicationDrill.frmMultGame.resources
+C:\Users\Nico\Desktop\C#Project\MultiplicationDrill\MultiplicationDrill\obj\Debug\MultiplicationDrill.Properties.Resources.resources
+C:\Users\Nico\Desktop\C#Project\MultiplicationDrill\MultiplicationDrill\obj\Debug\MultiplicationDrill.csproj.GenerateResource.Cache
+C:\Users\Nico\Desktop\C#Project\MultiplicationDrill\MultiplicationDrill\obj\Debug\MultiplicationDrill.exe
+C:\Users\Nico\Desktop\C#Project\MultiplicationDrill\MultiplicationDrill\obj\Debug\MultiplicationDrill.pdb
