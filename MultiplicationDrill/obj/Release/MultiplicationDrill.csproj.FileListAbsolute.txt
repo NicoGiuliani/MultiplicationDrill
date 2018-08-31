@@ -16,3 +16,16 @@ C:\Users\Nico\Desktop\MultiplicationDrill\MultiplicationDrill\obj\Release\Multip
 C:\Users\Nico\Desktop\MultiplicationDrill\MultiplicationDrill\obj\Release\MultiplicationDrill.frmMultGame.resources
 C:\Users\Nico\Desktop\MultiplicationDrill\MultiplicationDrill\obj\Release\MultiplicationDrill.Properties.Resources.resources
 C:\Users\Nico\Desktop\MultiplicationDrill\MultiplicationDrill\obj\Release\MultiplicationDrill.csproj.GenerateResource.Cache
+C:\Users\ngiul\Documents\GitHub\MultiplicationDrill\MultiplicationDrill\bin\Release\MultiplicationDrill.exe.config
+C:\Users\ngiul\Documents\GitHub\MultiplicationDrill\MultiplicationDrill\bin\Release\MultiplicationDrill.exe
+C:\Users\ngiul\Documents\GitHub\MultiplicationDrill\MultiplicationDrill\bin\Release\MultiplicationDrill.pdb
+C:\Users\ngiul\Documents\GitHub\MultiplicationDrill\MultiplicationDrill\obj\Release\MultiplicationDrill.frmMultGame.resources
+C:\Users\ngiul\Documents\GitHub\MultiplicationDrill\MultiplicationDrill\obj\Release\MultiplicationDrill.Properties.Resources.resources
+C:\Users\ngiul\Documents\GitHub\MultiplicationDrill\MultiplicationDrill\obj\Release\MultiplicationDrill.Resources.Resource1.resources
+C:\Users\ngiul\Documents\GitHub\MultiplicationDrill\MultiplicationDrill\obj\Release\MultiplicationDrill.csproj.GenerateResource.cache
+C:\Users\ngiul\Documents\GitHub\MultiplicationDrill\MultiplicationDrill\obj\Release\MultiplicationDrill.csproj.CoreCompileInputs.cache
+C:\Users\ngiul\Documents\GitHub\MultiplicationDrill\MultiplicationDrill\obj\Release\MultiplicationDrill.exe
+C:\Users\ngiul\Documents\GitHub\MultiplicationDrill\MultiplicationDrill\obj\Release\MultiplicationDrill.pdb
+C:\Users\ngiul\Documents\GitHub\MultiplicationDrill\MultiplicationDrill\bin\Release\MultiplicationDrill.exe.CodeAnalysisLog.xml
+C:\Users\ngiul\Documents\GitHub\MultiplicationDrill\MultiplicationDrill\bin\Release\MultiplicationDrill.exe.lastcodeanalysissucceeded
+C:\Users\ngiul\Documents\GitHub\MultiplicationDrill\MultiplicationDrill\obj\Release\MultiplicationDrill.csprojAssemblyReference.cache

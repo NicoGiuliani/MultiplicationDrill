@@ -7,3 +7,14 @@ C:\Users\Nico\Desktop\C#Project\MultiplicationDrill\MultiplicationDrill\obj\Debu
 C:\Users\Nico\Desktop\C#Project\MultiplicationDrill\MultiplicationDrill\obj\Debug\MultiplicationDrill.csproj.GenerateResource.Cache
 C:\Users\Nico\Desktop\C#Project\MultiplicationDrill\MultiplicationDrill\obj\Debug\MultiplicationDrill.exe
 C:\Users\Nico\Desktop\C#Project\MultiplicationDrill\MultiplicationDrill\obj\Debug\MultiplicationDrill.pdb
+C:\Users\ngiul\Documents\GitHub\MultiplicationDrill\MultiplicationDrill\bin\Debug\MultiplicationDrill.exe.config
+C:\Users\ngiul\Documents\GitHub\MultiplicationDrill\MultiplicationDrill\bin\Debug\MultiplicationDrill.exe
+C:\Users\ngiul\Documents\GitHub\MultiplicationDrill\MultiplicationDrill\bin\Debug\MultiplicationDrill.pdb
+C:\Users\ngiul\Documents\GitHub\MultiplicationDrill\MultiplicationDrill\obj\Debug\MultiplicationDrill.csprojAssemblyReference.cache
+C:\Users\ngiul\Documents\GitHub\MultiplicationDrill\MultiplicationDrill\obj\Debug\MultiplicationDrill.frmMultGame.resources
+C:\Users\ngiul\Documents\GitHub\MultiplicationDrill\MultiplicationDrill\obj\Debug\MultiplicationDrill.Properties.Resources.resources
+C:\Users\ngiul\Documents\GitHub\MultiplicationDrill\MultiplicationDrill\obj\Debug\MultiplicationDrill.Resources.Resource1.resources
+C:\Users\ngiul\Documents\GitHub\MultiplicationDrill\MultiplicationDrill\obj\Debug\MultiplicationDrill.csproj.GenerateResource.cache
+C:\Users\ngiul\Documents\GitHub\MultiplicationDrill\MultiplicationDrill\obj\Debug\MultiplicationDrill.csproj.CoreCompileInputs.cache
+C:\Users\ngiul\Documents\GitHub\MultiplicationDrill\MultiplicationDrill\obj\Debug\MultiplicationDrill.exe
+C:\Users\ngiul\Documents\GitHub\MultiplicationDrill\MultiplicationDrill\obj\Debug\MultiplicationDrill.pdb
